@@ -24,3 +24,4 @@ node_modules/
 package-lock.json
 bin/
 public/web/
+CLAUDE.md
